@@ -1,0 +1,22 @@
+{
+  "name": "knowledge-gap",
+  "version": "1.0.0",
+  "description": "Theory and practice for getting rid of JS gaps",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexVechtomov/knowledge-gap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexVechtomov/knowledge-gap/issues"
+  },
+  "homepage": "https://github.com/AlexVechtomov/knowledge-gap#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
