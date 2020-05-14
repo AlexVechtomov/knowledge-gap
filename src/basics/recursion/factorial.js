@@ -1,7 +1,7 @@
 function factorial(number) {
-    if (number <= 0) { // terminal case
+    if (number <= 0) {
         return 1;
-      } else { // block to execute
+      } else {
         return (number * factorial(number - 1));
       }
 }
