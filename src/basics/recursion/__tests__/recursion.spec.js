@@ -1,7 +1,7 @@
 const factorial = require("../factorial");
 const sumTo = require("../sum-to");
 const fibonacci = require("../fibonacci");
-const singleList = require("../single-list")
+const singleList = require("../single-list");
 
 describe("Recursion", () => {
     test("factorial", () => {
