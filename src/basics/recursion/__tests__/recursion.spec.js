@@ -14,7 +14,7 @@ describe("Recursion", () => {
 
     test("fibonacci", () => {
         expect(fibonacci(7)).toBe(13);
-        expect(fibonacci(77)).toBe(5527939700884757);
+        expect(fibonacci(77)).toBe(5527939700884757)
     });
 
     test("single-linked list", () => {
